@@ -8,6 +8,7 @@ This calendar app for scheduling your work day was designed to enhance my skills
 * jQuery
 * Moment.js
 
+<<<<<<< HEAD
 ## Site Location
 [Work Day Scheduler](https://daniel-lago.github.io/work-day-scheduler-hw/)
 
@@ -27,3 +28,12 @@ When the user add a homework or a commitment just need to click on save button t
 
 
 ### ©️2022 Daniel Lago
+=======
+## Contribution
+Made by [Daniel Lago]
+
+## Site Image
+![alt text](assets/images/WorkDaySchedulerScreenShot.jpg)
+
+### ©️2022 Daniel-Lago
+>>>>>>> e066d31919c3214fb6e9cf8d76e26588ae588fc4
